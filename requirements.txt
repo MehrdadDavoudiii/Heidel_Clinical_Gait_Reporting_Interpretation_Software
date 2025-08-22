@@ -1,0 +1,8 @@
+ezc3d>=1.4.10
+numpy>=1.23
+matplotlib>=3.7
+python-docx>=0.8.11
+pillow>=9.5
+docx2pdf>=0.1.8
+openai>=1.40.0
+requests>=2.31
