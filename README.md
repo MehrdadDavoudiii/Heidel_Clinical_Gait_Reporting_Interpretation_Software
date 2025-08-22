@@ -61,3 +61,7 @@ Notes
 • The included C3D is anonymized and consented for research.
 • docx2pdf requires Microsoft Word on Windows
 • API usage costs are billed by OpenAI; typical runs are a few cents.
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
